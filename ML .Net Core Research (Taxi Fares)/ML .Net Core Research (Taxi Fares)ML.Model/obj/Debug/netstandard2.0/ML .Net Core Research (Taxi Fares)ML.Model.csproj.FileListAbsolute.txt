@@ -1,0 +1,9 @@
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\bin\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.deps.json
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\bin\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\bin\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.pdb
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\obj\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\obj\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\obj\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.AssemblyInfo.cs
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\obj\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)ML.Model\obj\Debug\netstandard2.0\ML .Net Core Research (Taxi Fares)ML.Model.pdb

@@ -1,0 +1,39 @@
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\MLModel.zip
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).exe
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).deps.json
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).runtimeconfig.json
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).runtimeconfig.dev.json
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).pdb
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.Core.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.Data.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.PCA.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.Transforms.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.DataView.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.FastTree.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Microsoft.ML.LightGbm.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares)ML.Model.dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\bin\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares)ML.Model.pdb
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\obj\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\obj\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\obj\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).AssemblyInfo.cs
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\obj\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).csproj.CopyComplete
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\obj\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).dll
+C:\Users\Justin\source\repos\ML-.Net-Core-Research-Taxi-Fares-\ML .Net Core Research (Taxi Fares)\ML .Net Core Research (Taxi Fares)\obj\Debug\netcoreapp3.0\ML .Net Core Research (Taxi Fares).pdb

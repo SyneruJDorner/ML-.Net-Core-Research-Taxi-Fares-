@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>ML_.Net_Core_Research__Taxi_Fares_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ML .Net Core Research (Taxi Fares)ML.Model\ML .Net Core Research (Taxi Fares)ML.Model.csproj" />
+  </ItemGroup>
+
+</Project>
